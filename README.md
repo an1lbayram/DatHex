@@ -1,4 +1,4 @@
-# 🧙‍♀️ UpdateWitch
+# 🧙‍♀️ DatHex
 
 > **TR:** Windows sistemlerde kurulu tüm uygulamaları `winget` aracı ile sessizce ve hızlı şekilde güncelleyen açık kaynak bir komut dosyasıdır.  
 > **EN:** An open-source batch script to silently and quickly upgrade all installed apps on Windows using `winget`.
@@ -33,7 +33,7 @@
 
 **TR:**
 
-1. Bu depoyu indir veya `updatewitch.bat` dosyasını kopyala  
+1. Bu depoyu indir veya `DatHex.bat` dosyasını kopyala  
 2. Dosyaya sağ tık → **Yönetici olarak çalıştır**  
 3. Menüden bir seçenek seç:
    - `[1]` Tüm uygulamaları güncelle
@@ -41,7 +41,7 @@
 
 **EN:**
 
-1. Download this repo or copy the `updatewitch.bat` file  
+1. Download this repo or copy the `DatHex.bat` file  
 2. Right-click on the file → **Run as administrator**  
 3. Choose an option from the menu:
    - `[1]` Upgrade all applications
@@ -57,5 +57,6 @@ This project is licensed under the [MIT License](./LICENSE).
 ---
 
 ## ✨ Geliştirici / Developer
+
 
 **by [an1lbayram](https://github.com/an1lbayram)**
