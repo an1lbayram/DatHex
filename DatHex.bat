@@ -1,17 +1,17 @@
 @echo off
 :: =============================================
-:: UpdateWitch - Windows Winget Mass Upgrader
+:: DatHex - Windows Winget Mass Upgrader
 :: Author: an1lbayram | License: MIT
 ::
 :: TR: Winget kullanarak sistemdeki tüm uygulamaları topluca sessizce günceller
 :: EN: Silently upgrades all installed apps using winget on Windows
 :: =============================================
 
-title UpdateWitch v1.0 - by an1lbayram
+title DatHex v1.0 - by an1lbayram
 
 color 0B
 echo  ******************************************************        
-echo                   UPDATEWITCH v1.0
+echo                     DatHex v1.0
 echo                  - by an1lbayram -                    
 echo  ******************************************************
 echo.
@@ -37,9 +37,9 @@ where winget >nul 2>&1 || (
 :menu
 color 0B
 cls
-echo  ******************************************************
-echo                   UPDATEWITCH v1.0
-echo                  - by an1lbayram -
+echo  ******************************************************        
+echo                     DatHex v1.0
+echo                  - by an1lbayram -                    
 echo  ******************************************************
 echo                      MAIN MENU                     
 echo  ******************************************************
@@ -104,4 +104,5 @@ goto menu
 echo.
 echo [i] Exiting UpdateWitch. Goodbye!
 timeout /t 5 >nul
+
 exit
