@@ -102,7 +102,8 @@ goto menu
 
 :exit_script
 echo.
-echo [i] Exiting UpdateWitch. Goodbye!
+echo [i] Exiting DatHex. Goodbye!
 timeout /t 5 >nul
 
 exit
+
