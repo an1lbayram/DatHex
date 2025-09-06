@@ -1,6 +1,6 @@
 # 🧙‍♀️ DatHex v1.3
 
-> **TR:** Windows sistemlerde kurulu tüm uygulamaları `winget` kullanarak güvenli ve sessiz bir şekilde güncelleyen açık kaynak bir batch script.  
+> **TR:** Windows sistemlerde kurulu tüm uygulamaları `winget` kullanarak güvenli ve sessiz bir şekilde güncelleyen açık kaynak bir batch scripti.  
 > **EN:** An open-source batch script to safely and silently upgrade all installed applications on Windows using `winget`.
 
 ---
@@ -25,12 +25,12 @@
 **TR:**  
 - Windows 10 veya 11  
 - [Winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/)  
-- Yönetici hakları  
+- Yönetici izni 
 
 **EN:**  
 - Windows 10 or 11  
 - [Winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/)  
-- Administrator privileges  
+- Administrator permission
 
 ---
 
@@ -86,3 +86,4 @@
 ## ✨ Geliştirici / Developer
 
 **by [an1lbayram](https://github.com/an1lbayram)**
+
